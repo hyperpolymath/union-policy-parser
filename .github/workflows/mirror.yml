@@ -31,7 +31,7 @@ jobs:
             exit 1
           fi
 
-      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v4
         with:
           fetch-depth: 0
 
@@ -65,7 +65,7 @@ jobs:
             exit 1
           fi
 
-      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v4
         with:
           fetch-depth: 0
 
@@ -99,7 +99,7 @@ jobs:
             exit 1
           fi
 
-      - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4
+      - uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8 # v4
         with:
           fetch-depth: 0
 
