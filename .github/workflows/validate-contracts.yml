@@ -177,7 +177,7 @@ jobs:
             --output grievance-bad-contract.md
 
       - name: Create GitHub Issue for Violations
-        uses: actions/github-script@7d2d13cb9171433f7b1c64aad26dcd68dd3ec2eb  # v7
+        uses: actions/github-script@ed597411d8f924073f98dfc5c65a23a2325f34cd  # v7
         with:
           script: |
             const fs = require('fs');
